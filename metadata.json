@@ -1,0 +1,6 @@
+{
+  "name": "ZUY LEVEL",
+  "description": "SOCKS5 Leveling System Premium Gaming UI",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
